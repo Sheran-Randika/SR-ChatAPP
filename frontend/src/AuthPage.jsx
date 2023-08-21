@@ -22,7 +22,7 @@ const AuthPage = (props) => {
   
           <div className="auth">
             <div className="auth-label">Username</div>
-            <input className="auth-input" name="username" />
+            <input className="auth-input" name="username"/>
             <button className="auth-button" type="submit">
               Enter
             </button>
